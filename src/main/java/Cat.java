@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 public class Cat {
-    private String name;
-    private int age;
+    private String name = "Unnamed";
+    private int age = 0;
 
     public Cat() {}
 
